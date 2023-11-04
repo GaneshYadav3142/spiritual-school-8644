@@ -70,3 +70,6 @@ To set up the Easy Loans  platform locally, follow these steps:
 
 ### EMI Calculator
 ![EMI Calculator](https://i.imgur.com/cvVfG8L.png)
+
+### Statistical Analysis
+![Stats](./demo/src/Utilites/stats.jpg)

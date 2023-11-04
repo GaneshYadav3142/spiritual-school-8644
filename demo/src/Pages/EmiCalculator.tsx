@@ -247,7 +247,7 @@ const EmiCalculator = () => {
         </Box>
         <Box >
           <Box  mb={'30px'}>
-            <Heading fontSize='5xl'>Stastical <Box as="span" color={"#58A0F7"}>Analysis</Box></Heading>
+            <Heading fontSize='5xl'>Statistical <Box as="span" color={"#58A0F7"}>Analysis</Box></Heading>
           </Box>
           {/* <Flex gap={"100px"}> */}
           <Box width="100%" display={{ base: 'block', md: 'flex' }} flexWrap={{ md: 'nowrap' }}>
